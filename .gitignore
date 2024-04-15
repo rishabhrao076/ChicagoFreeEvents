@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDEs and editors
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+*.pydevproject
+.DS_Store
+
+env/
+*.env
+
+testing.py
+dbcredentials.json
